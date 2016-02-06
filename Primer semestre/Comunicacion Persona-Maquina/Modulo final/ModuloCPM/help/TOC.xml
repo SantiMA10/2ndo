@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="Introduccion" target="introduccion" />
+  <tocitem text="Elegir pelicula" target="cartelera"/>
+  <tocitem text="Informacion sobre la pelicula" target="ficha"/>
+  <tocitem text="Elegir sesion" target="horario"/>
+  <tocitem text="Seleccionar butaca y tipo de entrada" target="sala"/>
+  <tocitem text="Pedido" target="pedido"/>
+
+
+</toc>
