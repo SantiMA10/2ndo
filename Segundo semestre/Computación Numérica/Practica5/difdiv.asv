@@ -1,0 +1,12 @@
+function a=difdiv(x,y)
+n = length(x);
+a = [y']
+aux = zeros(1,n)
+for i=1:n
+    aux(1,4) = 4;
+    aux
+    for j=1:n
+        aux(1,j) = ((a(i,j)-a(i+1,j))/(x(i)-x(i+j)));
+    end
+    a = [a; aux'];
+end

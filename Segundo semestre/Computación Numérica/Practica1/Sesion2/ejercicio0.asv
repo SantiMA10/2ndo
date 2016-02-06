@@ -1,0 +1,86 @@
+% Ejercicio 0
+clear, clc, close all, format compact
+
+A = [1 2 3; 3 3 4; 2 3 3];
+b = [1;1;2];
+x = A\b
+
+%% Ejemplo funcion in line 
+clear, clc, close all
+
+longitud = @(r)2*pi*r;
+
+L=longitud(1)
+
+%% Ejemplo funcion
+clear, clc, close all
+
+[a, v] = measures_sphere(2)
+
+%% Ejemplo bucle for
+clear, clc, close all
+v = zeros(1,8)
+for i=8:-2:1
+    v(i) = i;
+end
+v
+v = v(end:-1:1)
+fix(3.25)
+rem(107,2)
+%% Ejercicio 1
+clear, clc, close all
+
+x=119.32;
+N = 8;
+b=de2bi_a(x, N)
+
+%% Ejercicio 2
+clear, clc, close all
+
+x=107.31;
+N=5;
+b=de2bi_b(x, N)
+
+%% Ejercicio 3
+clear, clc, close all
+
+x = 0.1;
+N = 30;
+b = de2bi_b(x, N)
+
+%% Ejercicio 4
+clear, clc, close all
+
+x = 80;
+N = 8;
+b = de2bi_a(x, N)
+
+%% Ejercico 5
+clear, clc, close all
+
+x = 80;
+N = 8;
+b = de2bi_a(x, N)
+
+%% Ejercicio 7
+clear, clc, close all, format long
+
+b = 0;
+for i=52:-1:0
+    b = b + (2^-i)*2^1023;
+end
+b
+b == realmax
+
+
+%% Ejercicio 8
+clear, clc, close all, format rat
+
+b = 2^53
+b == 9007199254740992
+
+%% Ejercicio 9
+clear, clc, close all, format long
+
+
+

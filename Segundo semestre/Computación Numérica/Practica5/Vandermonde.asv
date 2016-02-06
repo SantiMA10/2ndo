@@ -1,0 +1,6 @@
+function V=Vandermonde(x)
+n = length(x);
+for i=1:n
+    aux = 
+end
+V = zeros(n,n);

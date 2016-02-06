@@ -1,0 +1,11 @@
+function x=biseccion1(f,a,b,n)
+for i=1:n
+    x = ((a+b)/2);
+    x = f(x);
+    if a*x < 0
+        a = x;
+    else
+        b = x;
+    end
+end
+x

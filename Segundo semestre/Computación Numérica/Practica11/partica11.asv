@@ -1,0 +1,29 @@
+%% Ejercicio 1
+clear, clc, close all
+A = [ 5 1 -1 -1; 1 4 -1 1 ; 1 1 -5 -1; 1 1 1 -4];
+b = [1;1;1;1];
+tol = 1e-4;
+[x,c] = jacobi(A,b,tol)
+
+
+%% Ejercicio 2
+clear, clc, close all
+A = [ 5 1 -1 -1; 1 4 -1 1 ; 1 1 -5 -1; 1 1 1 -4];
+b = [1;1;1;1];
+tol = 1e-4;
+[x,n] = gauss_seidel(A,b,tol)
+
+m=30;
+A1=magic(m);
+for i=1:m,A1(i,i)=norm(A1,inf);end
+b1=A1*(m:-1:1)';
+tol=1e-4;
+[x,n]=gauss_seidel(A1,b1,tol);
+sol=x'
+iteraciones=n
+
+%% Ejercicio 3a
+
+A = [5 2; 3 -2];
+b = [19; 5];
+[X, E] = jacobi2(A,b,tol)

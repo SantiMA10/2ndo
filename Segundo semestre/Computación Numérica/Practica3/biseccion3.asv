@@ -1,0 +1,11 @@
+function biseccion3(f,a,b)
+Ea = escenario1(a, 45);
+while (Ea ~= 0)
+    n = n+1;
+    x = ((a+b)/2);
+    if ((f(a)*f(x)) < 0)
+        b = x;
+    else
+        a = x;
+    end
+end

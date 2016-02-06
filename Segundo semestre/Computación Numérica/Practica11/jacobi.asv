@@ -1,0 +1,15 @@
+function x = jacobi(A,b,tol)
+n = length(b);
+x0 = zeros(n, 1);
+x1 = zeros(n, 1);
+condicion = 1;
+
+x = 0;
+while condicion 
+    for i=1:n
+        suma = 0;
+        for j=1:n
+            if 
+            suma = suma - A(j);
+    condicion = 0;
+end

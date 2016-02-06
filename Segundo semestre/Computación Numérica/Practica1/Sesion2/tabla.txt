@@ -1,0 +1,9 @@
+Clase               Rango
+Con signo-8 bits	[-128, 127]
+Con signo-16 bits	[-32768, 32767] 
+Con signo-32 bits	[-2147483648, 2147483647]
+Con signo-64 bits	[-9223372036854775808, 9223372036854775807]
+Sin signo-8 bits	[0, 255]
+Sin signo-16 bits	[0, 65535]
+Sin signo-32 bits	[0, 4294967295]
+Sin signo-64 bits	[0, 18446744073709551615]
