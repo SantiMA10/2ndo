@@ -1,0 +1,15 @@
+C:\Users\uo237040\Desktop\TPP\Sesion2\Sesion2\obj\Debug\Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\Sesion2\Sesion2\bin\Debug\Sesion2.exe.config
+C:\Users\uo237040\Desktop\TPP\Sesion2\Sesion2\bin\Debug\Sesion2.exe
+C:\Users\uo237040\Desktop\TPP\Sesion2\Sesion2\bin\Debug\Sesion2.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+C:\Users\uo237040\Desktop\TPP\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Sesion2\bin\Debug\Sesion2.exe.config
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+C:\Users\santiagomartin\Desktop\Final\Sesion2\Sesion2\bin\Debug\Sesion2.exe.config
+C:\Users\santiagomartin\Desktop\Final\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+C:\Users\santiagomartin\Desktop\Final\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+G:\2ndSemestre\TPP\Practica\Sesion03-pre\Sesion2\Sesion2\bin\Debug\Sesion2.exe.config
+G:\2ndSemestre\TPP\Practica\Sesion03-pre\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+G:\2ndSemestre\TPP\Practica\Sesion03-pre\Sesion2\Sesion2\obj\Debug\Sesion2.pdb

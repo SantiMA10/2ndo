@@ -1,0 +1,7 @@
+C:\Users\santiagomartin\Desktop\TPP\TNP5\PruebasTNP5\obj\Debug\PruebasTNP5.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\TNP5\PruebasTNP5\bin\Debug\PruebasTNP5.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP5\PruebasTNP5\bin\Debug\PruebasTNP5.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP5\PruebasTNP5\bin\Debug\TNP5.exe
+C:\Users\santiagomartin\Desktop\TPP\TNP5\PruebasTNP5\bin\Debug\TNP5.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP5\PruebasTNP5\obj\Debug\PruebasTNP5.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP5\PruebasTNP5\obj\Debug\PruebasTNP5.pdb

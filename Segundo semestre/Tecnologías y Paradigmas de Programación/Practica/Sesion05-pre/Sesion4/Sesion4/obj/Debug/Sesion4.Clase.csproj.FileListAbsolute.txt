@@ -1,0 +1,8 @@
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4\bin\Debug\Sesion4.exe.config
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4\obj\Debug\Sesion4.exe
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4\obj\Debug\Sesion4.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4\bin\Debug\Sesion4.exe
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4\bin\Debug\Sesion4.pdb
+G:\2ndSemestre\TPP\Practica\Sesion05-pre\Sesion4\Sesion4\bin\Debug\Sesion4.exe.config
+G:\2ndSemestre\TPP\Practica\Sesion05-pre\Sesion4\Sesion4\obj\Debug\Sesion4.exe
+G:\2ndSemestre\TPP\Practica\Sesion05-pre\Sesion4\Sesion4\obj\Debug\Sesion4.pdb

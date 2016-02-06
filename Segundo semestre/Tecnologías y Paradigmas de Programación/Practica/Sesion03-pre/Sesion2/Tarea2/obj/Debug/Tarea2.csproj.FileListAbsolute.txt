@@ -1,0 +1,15 @@
+C:\Users\uo237040\Desktop\TPP\Sesion2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\uo237040\Desktop\TPP\Sesion2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\uo237040\Desktop\TPP\Sesion2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion2\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\Sesion2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\uo237040\Desktop\TPP\Sesion2\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea2\obj\Debug\Tarea2.pdb
+G:\2ndSemestre\TPP\Practica\Sesion03-pre\Sesion2\Tarea2\bin\Debug\Tarea2.exe.config
+G:\2ndSemestre\TPP\Practica\Sesion03-pre\Sesion2\Tarea2\obj\Debug\Tarea2.exe
+G:\2ndSemestre\TPP\Practica\Sesion03-pre\Sesion2\Tarea2\obj\Debug\Tarea2.pdb

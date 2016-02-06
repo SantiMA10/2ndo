@@ -1,0 +1,14 @@
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea3\bin\Debug\Tarea3.exe.config
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea3\bin\Debug\Tarea3.exe
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea3\bin\Debug\Tarea3.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea3\bin\Debug\Tarea3.Biblioteca.dll
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea3\bin\Debug\Tarea3.Biblioteca.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea3\obj\Debug\Tarea3.Programa.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea3\obj\Debug\Tarea3.exe
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea3\obj\Debug\Tarea3.pdb
+E:\2ndSemestre\TPP\Practica\Sesion1\Tarea3\bin\Debug\Tarea3.exe.config
+E:\2ndSemestre\TPP\Practica\Sesion1\Tarea3\obj\Debug\Tarea3.exe
+E:\2ndSemestre\TPP\Practica\Sesion1\Tarea3\obj\Debug\Tarea3.pdb
+W:\2ndSemestre\TPP\Practica\Sesion1\Tarea3\bin\Debug\Tarea3.exe.config
+W:\2ndSemestre\TPP\Practica\Sesion1\Tarea3\obj\Debug\Tarea3.exe
+W:\2ndSemestre\TPP\Practica\Sesion1\Tarea3\obj\Debug\Tarea3.pdb

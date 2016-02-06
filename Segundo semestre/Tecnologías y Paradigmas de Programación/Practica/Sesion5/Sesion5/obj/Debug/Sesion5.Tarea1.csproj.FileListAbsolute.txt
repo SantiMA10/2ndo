@@ -1,0 +1,6 @@
+C:\Users\uo237040\Desktop\TPP\Sesion5\Sesion5\obj\Debug\Sesion5.Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\Sesion5\Sesion5\bin\Debug\Sesion5.exe.config
+C:\Users\uo237040\Desktop\TPP\Sesion5\Sesion5\bin\Debug\Sesion5.exe
+C:\Users\uo237040\Desktop\TPP\Sesion5\Sesion5\bin\Debug\Sesion5.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion5\Sesion5\obj\Debug\Sesion5.exe
+C:\Users\uo237040\Desktop\TPP\Sesion5\Sesion5\obj\Debug\Sesion5.pdb

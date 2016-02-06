@@ -1,0 +1,4 @@
+C:\Users\santiagomartin\Desktop\TPP\TNP3\BibliotecaTNP1\bin\Release\BibliotecaTNP3.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP3\BibliotecaTNP1\bin\Release\BibliotecaTNP3.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP3\BibliotecaTNP1\obj\Release\BibliotecaTNP3.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP3\BibliotecaTNP1\obj\Release\BibliotecaTNP3.pdb

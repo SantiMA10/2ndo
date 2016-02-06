@@ -1,0 +1,10 @@
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\model\bin\Debug\model.dll
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\model\bin\Debug\model.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\model\obj\Debug\model.dll
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\model\obj\Debug\model.pdb
+\\psf\Home\Downloads\tarea08\model\bin\Debug\model.dll
+\\psf\Home\Downloads\tarea08\model\bin\Debug\model.pdb
+\\psf\Home\Downloads\tarea08\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\tarea08\model\obj\Debug\model.dll
+\\psf\Home\Downloads\tarea08\model\obj\Debug\model.pdb

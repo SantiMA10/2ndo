@@ -1,0 +1,17 @@
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\funcional\practica02\ejemplos\memorizacion\bin\Debug\memorizacion.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\funcional\practica02\ejemplos\memorizacion\bin\Debug\memorizacion.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\funcional\practica02\ejemplos\memorizacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\funcional\practica02\ejemplos\memorizacion\obj\x86\Debug\memorizacion.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\funcional\practica02\ejemplos\memorizacion\obj\x86\Debug\memorizacion.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\funcional\practica02\ejemplos\memorizacion\bin\Debug\memorizacion.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\funcional\practica02\ejemplos\memorizacion\bin\Debug\memorizacion.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\funcional\practica02\ejemplos\memorizacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\funcional\practica02\ejemplos\memorizacion\obj\x86\Debug\memorizacion.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\funcional\practica02\ejemplos\memorizacion\obj\x86\Debug\memorizacion.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion6\tarea06\tarea06\memorizacion\bin\Debug\memorizacion.exe
+C:\Users\uo237040\Desktop\TPP\Sesion6\tarea06\tarea06\memorizacion\bin\Debug\memorizacion.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion6\tarea06\tarea06\memorizacion\obj\x86\Debug\memorizacion.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\Sesion6\tarea06\tarea06\memorizacion\obj\x86\Debug\memorizacion.exe
+C:\Users\uo237040\Desktop\TPP\Sesion6\tarea06\tarea06\memorizacion\obj\x86\Debug\memorizacion.pdb
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion6\tarea06\tarea06\memorizacion\obj\x86\Debug\memorizacion.exe
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion6\tarea06\tarea06\memorizacion\obj\x86\Debug\memorizacion.pdb

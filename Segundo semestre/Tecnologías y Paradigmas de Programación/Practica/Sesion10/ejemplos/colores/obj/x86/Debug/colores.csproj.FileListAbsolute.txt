@@ -1,0 +1,22 @@
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\practica3\colores\bin\Debug\colores.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\practica3\colores\bin\Debug\colores.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\practica3\colores\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\practica3\colores\obj\x86\Debug\colores.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\practica3\colores\obj\x86\Debug\colores.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\colores\obj\x86\Debug\colores.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\colores\obj\x86\Debug\colores.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\colores\bin\Debug\colores.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\colores\bin\Debug\colores.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\colores\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica2\ejemplos\colores\obj\x86\Debug\colores.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica2\ejemplos\colores\obj\x86\Debug\colores.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica2\ejemplos\colores\bin\Debug\colores.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica2\ejemplos\colores\bin\Debug\colores.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica2\ejemplos\colores\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion10\alumno\ejemplos\colores\obj\x86\Debug\colores.exe
+\\vmware-host\Shared Folders\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion10\alumno\ejemplos\colores\obj\x86\Debug\colores.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion10\ejemplos\colores\obj\x86\Debug\colores.exe
+C:\Users\uo237040\Desktop\TPP\Sesion10\ejemplos\colores\obj\x86\Debug\colores.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion10\ejemplos\colores\bin\Debug\colores.exe
+C:\Users\uo237040\Desktop\TPP\Sesion10\ejemplos\colores\bin\Debug\colores.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion10\ejemplos\colores\obj\x86\Debug\colores.csprojResolveAssemblyReference.cache

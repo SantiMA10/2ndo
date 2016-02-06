@@ -1,0 +1,5 @@
+C:\Users\uo237040\Desktop\TPP\Sesion7\Extensores\bin\Debug\Extensores.dll
+C:\Users\uo237040\Desktop\TPP\Sesion7\Extensores\bin\Debug\Extensores.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion7\Extensores\obj\Debug\Extensores.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\Sesion7\Extensores\obj\Debug\Extensores.dll
+C:\Users\uo237040\Desktop\TPP\Sesion7\Extensores\obj\Debug\Extensores.pdb

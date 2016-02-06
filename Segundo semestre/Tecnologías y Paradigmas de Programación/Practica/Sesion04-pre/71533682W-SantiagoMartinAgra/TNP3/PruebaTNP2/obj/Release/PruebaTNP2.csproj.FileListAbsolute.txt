@@ -1,0 +1,7 @@
+C:\Users\santiagomartin\Desktop\TPP\TNP3\PruebaTNP2\bin\Release\PruebaTNP2.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP3\PruebaTNP2\bin\Release\PruebaTNP2.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP3\PruebaTNP2\bin\Release\BibliotecaTNP3.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP3\PruebaTNP2\bin\Release\BibliotecaTNP3.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP3\PruebaTNP2\obj\Release\PruebaTNP2.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\TNP3\PruebaTNP2\obj\Release\PruebaTNP2.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP3\PruebaTNP2\obj\Release\PruebaTNP2.pdb

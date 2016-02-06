@@ -1,0 +1,10 @@
+C:\Users\santiagomartin\Desktop\TPP\TNP1\TNP1\OpcionalTNP2\obj\Debug\OpcionalTNP2.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\TNP1\TNP1\OpcionalTNP2\bin\Debug\OpcionalTNP2.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP1\TNP1\OpcionalTNP2\bin\Debug\OpcionalTNP2.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP1\TNP1\OpcionalTNP2\obj\Debug\OpcionalTNP2.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP1\TNP1\OpcionalTNP2\obj\Debug\OpcionalTNP2.pdb
+C:\Users\santiagomartin\Desktop\Final\TNP2\OpcionalTNP2\bin\Debug\OpcionalTNP2.dll
+C:\Users\santiagomartin\Desktop\Final\TNP2\OpcionalTNP2\bin\Debug\OpcionalTNP2.pdb
+C:\Users\santiagomartin\Desktop\Final\TNP2\OpcionalTNP2\obj\Debug\OpcionalTNP2.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\Final\TNP2\OpcionalTNP2\obj\Debug\OpcionalTNP2.dll
+C:\Users\santiagomartin\Desktop\Final\TNP2\OpcionalTNP2\obj\Debug\OpcionalTNP2.pdb

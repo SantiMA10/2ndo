@@ -1,0 +1,15 @@
+C:\Users\santiagomartin\Desktop\TPP\TNP1\TNP1\BibliotecaTNP1\bin\Debug\BibliotecaTNP1.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP1\TNP1\BibliotecaTNP1\bin\Debug\BibliotecaTNP1.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP1\TNP1\BibliotecaTNP1\obj\Debug\BibliotecaTNP2.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\TNP1\TNP1\BibliotecaTNP1\obj\Debug\BibliotecaTNP1.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP1\TNP1\BibliotecaTNP1\obj\Debug\BibliotecaTNP1.pdb
+C:\Users\santiagomartin\Desktop\Final\TNP2\BibliotecaTNP1\bin\Debug\BibliotecaTNP2.dll
+C:\Users\santiagomartin\Desktop\Final\TNP2\BibliotecaTNP1\bin\Debug\BibliotecaTNP2.pdb
+C:\Users\santiagomartin\Desktop\Final\TNP2\BibliotecaTNP1\obj\Debug\BibliotecaTNP2.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\Final\TNP2\BibliotecaTNP1\obj\Debug\BibliotecaTNP2.dll
+C:\Users\santiagomartin\Desktop\Final\TNP2\BibliotecaTNP1\obj\Debug\BibliotecaTNP2.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP3\BibliotecaTNP1\bin\Debug\BibliotecaTNP3.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP3\BibliotecaTNP1\bin\Debug\BibliotecaTNP3.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP3\BibliotecaTNP1\obj\Debug\BibliotecaTNP2.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\TNP3\BibliotecaTNP1\obj\Debug\BibliotecaTNP3.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP3\BibliotecaTNP1\obj\Debug\BibliotecaTNP3.pdb

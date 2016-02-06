@@ -1,0 +1,5 @@
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.Vector\obj\Debug\Tarea5.Vector.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.Vector\bin\Debug\Tarea5.Vector.dll
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.Vector\bin\Debug\Tarea5.Vector.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.Vector\obj\Debug\Tarea5.Vector.dll
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.Vector\obj\Debug\Tarea5.Vector.pdb

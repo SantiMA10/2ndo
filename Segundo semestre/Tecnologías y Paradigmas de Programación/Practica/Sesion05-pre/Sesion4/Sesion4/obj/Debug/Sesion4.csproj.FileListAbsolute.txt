@@ -1,0 +1,6 @@
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4\bin\Debug\Sesion4.exe.config
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4\bin\Debug\Sesion4.exe
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4\bin\Debug\Sesion4.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4\obj\Debug\Sesion4.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4\obj\Debug\Sesion4.exe
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4\obj\Debug\Sesion4.pdb

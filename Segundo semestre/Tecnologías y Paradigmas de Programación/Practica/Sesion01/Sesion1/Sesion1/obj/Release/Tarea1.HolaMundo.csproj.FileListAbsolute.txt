@@ -1,0 +1,5 @@
+C:\Users\uo237040\Desktop\TPP\Sesion1\Sesion1\bin\Release\Sesion1.exe.config
+C:\Users\uo237040\Desktop\TPP\Sesion1\Sesion1\bin\Release\Sesion1.exe
+C:\Users\uo237040\Desktop\TPP\Sesion1\Sesion1\bin\Release\Sesion1.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion1\Sesion1\obj\Release\Sesion1.exe
+C:\Users\uo237040\Desktop\TPP\Sesion1\Sesion1\obj\Release\Sesion1.pdb

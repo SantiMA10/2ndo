@@ -1,0 +1,5 @@
+T4.	-Añadimos constructor y desconstructor a angulo.
+T5. 	-Añadimos propiedades a Angulo.
+	-Modificamos la clase UsoAngulo para usar las propiedades.
+T6.	-Modificar PersonaTO para que funcione constructorPersonaTO.
+TNP.	-Implementar una lista de enteros, explicado en PDF. Añadir final, borrar inicio.

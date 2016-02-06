@@ -1,0 +1,14 @@
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\bin\Debug\Sesion4.PruebasUnitarios.dll
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\bin\Debug\Sesion4.PruebasUnitarios.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\bin\Debug\Sesion4.ListaGenerica.dll
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\bin\Debug\Sesion4.ListaGenerica.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\obj\Debug\Sesion4.PruebasUnitarios.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\obj\Debug\Sesion4.PruebasUnitarios.dll
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\obj\Debug\Sesion4.PruebasUnitarios.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\bin\Debug\Sesion4.PruebasUnitarios.dll
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\bin\Debug\Sesion4.PruebasUnitarios.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\bin\Debug\Sesion4.ListaGenerica.dll
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\bin\Debug\Sesion4.ListaGenerica.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\obj\Debug\Sesion4.PruebasUnitarios.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\obj\Debug\Sesion4.PruebasUnitarios.dll
+C:\Users\santiagomartin\Desktop\TPP\Sesion4\Sesion4.PruebasUnitarios\obj\Debug\Sesion4.PruebasUnitarios.pdb

@@ -1,0 +1,16 @@
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\cuentas\bin\Debug\cuentas.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\cuentas\bin\Debug\cuentas.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\cuentas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\cuentas\obj\x86\Debug\cuentas.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica2\ejemplos\cuentas\obj\x86\Debug\cuentas.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica2\ejemplos\cuentas\obj\x86\Debug\cuentas.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica2\ejemplos\cuentas\obj\x86\Debug\cuentas.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica2\ejemplos\cuentas\bin\Debug\cuentas.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica2\ejemplos\cuentas\bin\Debug\cuentas.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica2\ejemplos\cuentas\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion10\alumno\ejemplos\cuentas\obj\x86\Debug\cuentas.exe
+\\vmware-host\Shared Folders\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion10\alumno\ejemplos\cuentas\obj\x86\Debug\cuentas.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion10\ejemplos\cuentas\obj\x86\Debug\cuentas.exe
+C:\Users\uo237040\Desktop\TPP\Sesion10\ejemplos\cuentas\obj\x86\Debug\cuentas.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion10\ejemplos\cuentas\bin\Debug\cuentas.exe
+C:\Users\uo237040\Desktop\TPP\Sesion10\ejemplos\cuentas\bin\Debug\cuentas.pdb

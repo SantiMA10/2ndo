@@ -1,0 +1,6 @@
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion1\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache

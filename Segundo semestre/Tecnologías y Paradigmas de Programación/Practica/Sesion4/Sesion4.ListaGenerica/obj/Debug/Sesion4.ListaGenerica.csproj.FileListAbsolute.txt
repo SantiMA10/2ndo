@@ -1,0 +1,4 @@
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.ListaGenerica\bin\Debug\Sesion4.ListaGenerica.dll
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.ListaGenerica\bin\Debug\Sesion4.ListaGenerica.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.ListaGenerica\obj\Debug\Sesion4.ListaGenerica.dll
+C:\Users\uo237040\Desktop\TPP\Sesion4\Sesion4.ListaGenerica\obj\Debug\Sesion4.ListaGenerica.pdb

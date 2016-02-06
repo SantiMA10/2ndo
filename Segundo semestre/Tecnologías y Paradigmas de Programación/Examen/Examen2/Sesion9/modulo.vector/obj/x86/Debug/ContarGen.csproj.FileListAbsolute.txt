@@ -1,0 +1,5 @@
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\modulo.vector\obj\x86\Debug\modulo.vector.exe
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\modulo.vector\obj\x86\Debug\modulo.vector.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\modulo.vector\bin\Debug\modulo.vector.exe
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\modulo.vector\bin\Debug\modulo.vector.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\modulo.vector\obj\x86\Debug\ContarGen.csprojResolveAssemblyReference.cache

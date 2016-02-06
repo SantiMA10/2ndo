@@ -1,0 +1,9 @@
+C:\Users\uo237040\Desktop\TPP\Sesion6\Sesion6\bin\Debug\Sesion6.exe.config
+C:\Users\uo237040\Desktop\TPP\Sesion6\Sesion6\bin\Debug\Sesion6.exe
+C:\Users\uo237040\Desktop\TPP\Sesion6\Sesion6\bin\Debug\Sesion6.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion6\Sesion6\obj\Debug\Sesion6.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\Sesion6\Sesion6\obj\Debug\Sesion6.exe
+C:\Users\uo237040\Desktop\TPP\Sesion6\Sesion6\obj\Debug\Sesion6.pdb
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion6\Sesion6\bin\Debug\Sesion6.exe.config
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion6\Sesion6\obj\Debug\Sesion6.exe
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion6\Sesion6\obj\Debug\Sesion6.pdb

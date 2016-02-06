@@ -1,0 +1,7 @@
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\PruebaContarGen\bin\Debug\PruebaContarGen.dll
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\PruebaContarGen\bin\Debug\PruebaContarGen.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\PruebaContarGen\bin\Debug\modulo.vector.exe
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\PruebaContarGen\bin\Debug\modulo.vector.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\PruebaContarGen\obj\Debug\PruebaContarGen.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\PruebaContarGen\obj\Debug\PruebaContarGen.dll
+C:\Users\santiagomartin\Desktop\TPP\Sesion9\PruebaContarGen\obj\Debug\PruebaContarGen.pdb

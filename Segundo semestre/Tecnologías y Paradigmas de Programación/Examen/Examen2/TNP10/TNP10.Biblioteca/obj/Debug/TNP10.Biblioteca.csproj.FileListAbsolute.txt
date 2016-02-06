@@ -1,0 +1,5 @@
+C:\Users\santiagomartin\Desktop\TPP\TNP10\TNP10.Biblioteca\obj\Debug\TNP10.Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\TNP10\TNP10.Biblioteca\bin\Debug\TNP10.Biblioteca.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP10\TNP10.Biblioteca\bin\Debug\TNP10.Biblioteca.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP10\TNP10.Biblioteca\obj\Debug\TNP10.Biblioteca.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP10\TNP10.Biblioteca\obj\Debug\TNP10.Biblioteca.pdb

@@ -1,0 +1,5 @@
+C:\Users\santiagomartin\Desktop\TPP\TNP4\TNP4\obj\Debug\TNP4.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\TNP4\TNP4\bin\Debug\TNP4.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP4\TNP4\bin\Debug\TNP4.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP4\TNP4\obj\Debug\TNP4.dll
+C:\Users\santiagomartin\Desktop\TPP\TNP4\TNP4\obj\Debug\TNP4.pdb

@@ -1,0 +1,3 @@
+C:\Users\uo237040\Desktop\TPP\Sesion2\Tarea3\bin\Debug\Tarea3.exe.config
+C:\Users\santiagomartin\Desktop\Final\Sesion2\Tarea3\bin\Debug\Tarea3.exe.config
+G:\2ndSemestre\TPP\Practica\Sesion03-pre\Sesion2\Tarea3\bin\Debug\Tarea3.exe.config

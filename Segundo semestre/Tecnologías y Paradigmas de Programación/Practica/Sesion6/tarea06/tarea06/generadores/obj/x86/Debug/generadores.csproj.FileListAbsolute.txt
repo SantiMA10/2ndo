@@ -1,0 +1,16 @@
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\funcional\practica02\ejemplos\generadores\bin\Debug\generadores.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\funcional\practica02\ejemplos\generadores\bin\Debug\generadores.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\funcional\practica02\ejemplos\generadores\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\funcional\practica02\ejemplos\generadores\obj\x86\Debug\generadores.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\funcional\practica02\ejemplos\generadores\obj\x86\Debug\generadores.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\funcional\practica02\ejemplos\generadores\bin\Debug\generadores.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\funcional\practica02\ejemplos\generadores\bin\Debug\generadores.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\funcional\practica02\ejemplos\generadores\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\funcional\practica02\ejemplos\generadores\obj\x86\Debug\generadores.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\funcional\practica02\ejemplos\generadores\obj\x86\Debug\generadores.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion6\tarea06\tarea06\generadores\bin\Debug\generadores.exe
+C:\Users\uo237040\Desktop\TPP\Sesion6\tarea06\tarea06\generadores\bin\Debug\generadores.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion6\tarea06\tarea06\generadores\obj\x86\Debug\generadores.exe
+C:\Users\uo237040\Desktop\TPP\Sesion6\tarea06\tarea06\generadores\obj\x86\Debug\generadores.pdb
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion6\tarea06\tarea06\generadores\obj\x86\Debug\generadores.exe
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion6\tarea06\tarea06\generadores\obj\x86\Debug\generadores.pdb

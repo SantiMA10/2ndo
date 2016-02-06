@@ -1,0 +1,6 @@
+C:\Users\santiagomartin\Desktop\TPP\TNP5\TNP5\bin\Debug\TNP5.exe.config
+C:\Users\santiagomartin\Desktop\TPP\TNP5\TNP5\bin\Debug\TNP5.exe
+C:\Users\santiagomartin\Desktop\TPP\TNP5\TNP5\bin\Debug\TNP5.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP5\TNP5\obj\Debug\TNP5.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\TNP5\TNP5\obj\Debug\TNP5.exe
+C:\Users\santiagomartin\Desktop\TPP\TNP5\TNP5\obj\Debug\TNP5.pdb

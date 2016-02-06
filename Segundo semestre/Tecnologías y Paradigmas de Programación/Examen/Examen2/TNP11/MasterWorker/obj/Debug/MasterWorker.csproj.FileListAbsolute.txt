@@ -1,0 +1,6 @@
+C:\Users\santiagomartin\Desktop\TPP\TNP11\MasterWorker\bin\Debug\MasterWorker.exe.config
+C:\Users\santiagomartin\Desktop\TPP\TNP11\MasterWorker\bin\Debug\MasterWorker.exe
+C:\Users\santiagomartin\Desktop\TPP\TNP11\MasterWorker\bin\Debug\MasterWorker.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP11\MasterWorker\obj\Debug\MasterWorker.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\TNP11\MasterWorker\obj\Debug\MasterWorker.exe
+C:\Users\santiagomartin\Desktop\TPP\TNP11\MasterWorker\obj\Debug\MasterWorker.pdb

@@ -1,0 +1,21 @@
+C:\Users\uo237040\Desktop\TPP\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.Pruebas.dll
+C:\Users\uo237040\Desktop\TPP\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.Pruebas.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.exe
+C:\Users\uo237040\Desktop\TPP\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.pdb
+C:\Users\uo237040\Desktop\TPP\Sesion7\Sesion7.Pruebas\obj\Debug\Sesion7.Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\Sesion7\Sesion7.Pruebas\obj\Debug\Sesion7.Pruebas.dll
+C:\Users\uo237040\Desktop\TPP\Sesion7\Sesion7.Pruebas\obj\Debug\Sesion7.Pruebas.pdb
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.Pruebas.dll
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.Pruebas.pdb
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.exe
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.pdb
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\obj\Debug\Sesion7.Pruebas.csprojResolveAssemblyReference.cache
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\obj\Debug\Sesion7.Pruebas.dll
+\\psf\Transcend\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\obj\Debug\Sesion7.Pruebas.pdb
+\\psf\Transcend 1\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.Pruebas.dll
+\\psf\Transcend 1\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.Pruebas.pdb
+\\psf\Transcend 1\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.exe
+\\psf\Transcend 1\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\bin\Debug\Sesion7.pdb
+\\psf\Transcend 1\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\obj\Debug\Sesion7.Pruebas.csprojResolveAssemblyReference.cache
+\\psf\Transcend 1\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\obj\Debug\Sesion7.Pruebas.dll
+\\psf\Transcend 1\2ndSemestre\TPP\Practica\Sesion7\Sesion7.Pruebas\obj\Debug\Sesion7.Pruebas.pdb

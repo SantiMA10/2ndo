@@ -1,0 +1,6 @@
+C:\Users\uo237040\Desktop\TPP\TNP11\TNP11\bin\Debug\TNP11.exe.config
+C:\Users\uo237040\Desktop\TPP\TNP11\TNP11\bin\Debug\TNP11.exe
+C:\Users\uo237040\Desktop\TPP\TNP11\TNP11\bin\Debug\TNP11.pdb
+C:\Users\uo237040\Desktop\TPP\TNP11\TNP11\obj\Debug\TNP11.csprojResolveAssemblyReference.cache
+C:\Users\uo237040\Desktop\TPP\TNP11\TNP11\obj\Debug\TNP11.exe
+C:\Users\uo237040\Desktop\TPP\TNP11\TNP11\obj\Debug\TNP11.pdb

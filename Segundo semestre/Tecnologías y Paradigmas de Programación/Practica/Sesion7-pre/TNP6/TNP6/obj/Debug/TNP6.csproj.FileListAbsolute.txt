@@ -1,0 +1,6 @@
+C:\Users\santiagomartin\Desktop\TPP\TNP6\TNP6\bin\Debug\TNP6.exe.config
+C:\Users\santiagomartin\Desktop\TPP\TNP6\TNP6\obj\Debug\TNP6.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\TNP6\TNP6\bin\Debug\TNP6.exe
+C:\Users\santiagomartin\Desktop\TPP\TNP6\TNP6\bin\Debug\TNP6.pdb
+C:\Users\santiagomartin\Desktop\TPP\TNP6\TNP6\obj\Debug\TNP6.exe
+C:\Users\santiagomartin\Desktop\TPP\TNP6\TNP6\obj\Debug\TNP6.pdb

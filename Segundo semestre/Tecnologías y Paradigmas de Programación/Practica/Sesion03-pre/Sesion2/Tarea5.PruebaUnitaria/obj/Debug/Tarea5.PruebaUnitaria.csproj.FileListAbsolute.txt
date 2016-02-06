@@ -1,0 +1,7 @@
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.PruebaUnitaria\obj\Debug\Tarea5.PruebaUnitaria.csprojResolveAssemblyReference.cache
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.PruebaUnitaria\bin\Debug\Tarea5.PruebaUnitaria.dll
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.PruebaUnitaria\bin\Debug\Tarea5.PruebaUnitaria.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.PruebaUnitaria\bin\Debug\Tarea5.Vector.dll
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.PruebaUnitaria\bin\Debug\Tarea5.Vector.pdb
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.PruebaUnitaria\obj\Debug\Tarea5.PruebaUnitaria.dll
+C:\Users\santiagomartin\Desktop\TPP\Sesion2\Tarea5.PruebaUnitaria\obj\Debug\Tarea5.PruebaUnitaria.pdb
