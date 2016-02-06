@@ -1,0 +1,7 @@
+// Proceso Inactivo del Sistema
+// Ejecuta la instrucción NOP indefinidamente
+5 // Tamanio del programa en posiciones de memoria
+90 // Prioridad del proceso generado (MUY baja prioridad)
+INC 1
+TRAP 4
+JUMP -2

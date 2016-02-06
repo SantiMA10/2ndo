@@ -1,0 +1,17 @@
+# 1 "MyAspect.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "MyAspect.c"
+# 1 "Clock.h" 1
+
+
+
+
+
+void Clock_Update();
+int Clock_GetTime();
+# 2 "MyAspect.c" 2
+
+before(): execution(void Processor_FetchInstruction()) {
+ Clock_Update();
+}

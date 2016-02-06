@@ -1,0 +1,500 @@
+./Simulator a pppV2/programWithMemadd
+
+[0] User program list:
+	Program [pppV2/programWithMemadd] with arrival time [0]
+[0] New process [0] moving to the [NEW] state
+[0] Process [0] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+[0] New process [1] moving to the [NEW] state
+[0] Process [1] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [1, 20]
+	DAEMONS: [0, 100]
+[0] Process [1] created from program [pppV2/programWithMemadd]
+[0] Process [1] moving from the [READY] state to the [EXECUTING] state
+[1] a 5 0 (PC: 1, Accumulator: 5, PSW: 0)
+[2] w 19 0 (PC: 2, Accumulator: 5, PSW: 0)
+[3] z 4 0 (PC: 3, Accumulator: 5, PSW: 0)
+[3] Clock interrupt number [1] has occurred
+[4] a 2 0 (PC: 4, Accumulator: 2, PSW: 0)
+[5] m -1 19 (PC: 5, Accumulator: 4, PSW: 0)
+[6] j -4 0 (PC: 1, Accumulator: 4, PSW: 0)
+[6] Clock interrupt number [2] has occurred
+[7] w 19 0 (PC: 2, Accumulator: 4, PSW: 0)
+[8] z 4 0 (PC: 3, Accumulator: 4, PSW: 0)
+[9] a 2 0 (PC: 4, Accumulator: 2, PSW: 0)
+[9] Clock interrupt number [3] has occurred
+[10] m -1 19 (PC: 5, Accumulator: 3, PSW: 0)
+[11] j -4 0 (PC: 1, Accumulator: 3, PSW: 0)
+[12] w 19 0 (PC: 2, Accumulator: 3, PSW: 0)
+[12] Clock interrupt number [4] has occurred
+[13] z 4 0 (PC: 3, Accumulator: 3, PSW: 0)
+[14] a 2 0 (PC: 4, Accumulator: 2, PSW: 0)
+[15] m -1 19 (PC: 5, Accumulator: 2, PSW: 0)
+[15] Clock interrupt number [5] has occurred
+[16] j -4 0 (PC: 1, Accumulator: 2, PSW: 0)
+[17] w 19 0 (PC: 2, Accumulator: 2, PSW: 0)
+[18] z 4 0 (PC: 3, Accumulator: 2, PSW: 0)
+[18] Clock interrupt number [6] has occurred
+[19] a 2 0 (PC: 4, Accumulator: 2, PSW: 0)
+[20] m -1 19 (PC: 5, Accumulator: 1, PSW: 0)
+[21] j -4 0 (PC: 1, Accumulator: 1, PSW: 0)
+[21] Clock interrupt number [7] has occurred
+[22] w 19 0 (PC: 2, Accumulator: 1, PSW: 0)
+[23] z 4 0 (PC: 3, Accumulator: 1, PSW: 0)
+[24] a 2 0 (PC: 4, Accumulator: 2, PSW: 0)
+[24] Clock interrupt number [8] has occurred
+[25] m -1 19 (PC: 5, Accumulator: 0, PSW: 0)
+[26] j -4 0 (PC: 1, Accumulator: 0, PSW: 0)
+[27] w 19 0 (PC: 2, Accumulator: 0, PSW: 0)
+[27] Clock interrupt number [9] has occurred
+[28] z 4 0 (PC: 6, Accumulator: 0, PSW: 0)
+[29] t 3 0 (PC: 7, Accumulator: 0, PSW: 0)
+[29] Process [1] has requested to terminate
+[29] Process [1] moving from the [EXECUTING] state to the [EXIT] state
+[29] Process [0] moving from the [READY] state to the [EXECUTING] state
+[30] h 0 0 (PC: 3, Accumulator: 0, PSW: 129)
+[30] Clock interrupt number [10] has occurred
+[30] END of the simulation
+
+./Simulator sp pppV2/notExisting pppV2/programTooBig pppV2/programWithNegativeSize pppV2/programWithOnlySize pppV2/programOnlyTrap3 pppV2/programWithNegativePriority pppV2/programWithTooMuchInstructions pppV2/programOnlyTrap3 pppV2/programOnlyTrap3 pppV2/programOnlyTrap3
+
+[0] New process [0] moving to the [NEW] state
+[0] Process [0] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+[0] ERROR: Program [pppV2/notExisting] is not valid (it does not exist)
+[0] ERROR: Program [pppV2/programTooBig] is too big
+[0] ERROR: Program [pppV2/programWithNegativeSize] is not valid (invalid size or priority)
+[0] ERROR: Program [pppV2/programWithOnlySize] is not valid (invalid size or priority)
+[0] New process [1] moving to the [NEW] state
+[0] Process [1] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [1, 1]
+	DAEMONS: [0, 100]
+[0] ERROR: Program [pppV2/programWithNegativePriority] is not valid (invalid size or priority)
+[0] ERROR: Program [pppV2/programWithTooMuchInstructions] is too big
+[0] New process [2] moving to the [NEW] state
+[0] Process [2] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [1, 1], [2, 1]
+	DAEMONS: [0, 100]
+[0] New process [3] moving to the [NEW] state
+[0] Process [3] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [1, 1], [2, 1], [3, 1]
+	DAEMONS: [0, 100]
+[0] ERROR: There are not free entries in the process table for the program [pppV2/programOnlyTrap3]
+[0] Process [1] moving from the [READY] state to the [EXECUTING] state
+[1] Process [1] has requested to terminate
+[1] Process [1] moving from the [EXECUTING] state to the [EXIT] state
+[1] Process [3] moving from the [READY] state to the [EXECUTING] state
+[2] Process [3] has requested to terminate
+[2] Process [3] moving from the [EXECUTING] state to the [EXIT] state
+[2] Process [2] moving from the [READY] state to the [EXECUTING] state
+[3] Process [2] has requested to terminate
+[3] Process [2] moving from the [EXECUTING] state to the [EXIT] state
+[3] Process [0] moving from the [READY] state to the [EXECUTING] state
+
+./Simulator a pppV2/yieldProgramDesc pppV2/programSleepingThrice
+
+[0] User program list:
+	Program [pppV2/yieldProgramDesc] with arrival time [0]
+	Program [pppV2/programSleepingThrice] with arrival time [0]
+[0] New process [0] moving to the [NEW] state
+[0] Process [0] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+[0] New process [1] moving to the [NEW] state
+[0] Process [1] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+[0] Process [1] created from program [pppV2/yieldProgramDesc]
+[0] New process [2] moving to the [NEW] state
+[0] Process [2] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [2, 11], [1, 33]
+	DAEMONS: [0, 100]
+[0] Process [2] created from program [pppV2/programSleepingThrice]
+[0] Process [2] moving from the [READY] state to the [EXECUTING] state
+[1] t 7 0 (PC: 1, Accumulator: 0, PSW: 0)
+[1] Process [2] moving from the [EXECUTING] state to the [BLOCKED] state
+[1] Process [1] moving from the [READY] state to the [EXECUTING] state
+[1] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+	SLEEPING Queue: [2, 11, 1]
+	Running Process Information: [PID:1, Priority: 33, WakeUp: 0, Queue: USER]
+[2] a 2 0 (PC: 1, Accumulator: 2, PSW: 0)
+[3] i -1 0 (PC: 2, Accumulator: 1, PSW: 0)
+[3] Clock interrupt number [1] has occurred
+[3] Process [2] moving from the [BLOCKED] state to the [READY] state
+[3] Ready-to-run processes queue:
+	USER: [2, 11]
+	DAEMONS: [0, 100]
+[3] Process [1] is thrown out of the processor by process [2]
+[3] Process [1] moving from the [EXECUTING] state to the [READY] state
+[3] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+[3] Process [2] moving from the [READY] state to the [EXECUTING] state
+[3] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+	SLEEPING Queue: 
+	Running Process Information: [PID:2, Priority: 11, WakeUp: 1, Queue: USER]
+[4] t 7 0 (PC: 2, Accumulator: 0, PSW: 0)
+[4] Process [2] moving from the [EXECUTING] state to the [BLOCKED] state
+[4] Process [1] moving from the [READY] state to the [EXECUTING] state
+[4] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+	SLEEPING Queue: [2, 11, 2]
+	Running Process Information: [PID:1, Priority: 33, WakeUp: 0, Queue: USER]
+[5] t 4 0 (PC: 3, Accumulator: 1, PSW: 0)
+[6] z 2 0 (PC: 4, Accumulator: 1, PSW: 0)
+[6] Clock interrupt number [2] has occurred
+[6] Process [2] moving from the [BLOCKED] state to the [READY] state
+[6] Ready-to-run processes queue:
+	USER: [2, 11]
+	DAEMONS: [0, 100]
+[6] Process [1] is thrown out of the processor by process [2]
+[6] Process [1] moving from the [EXECUTING] state to the [READY] state
+[6] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+[6] Process [2] moving from the [READY] state to the [EXECUTING] state
+[6] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+	SLEEPING Queue: 
+	Running Process Information: [PID:2, Priority: 11, WakeUp: 2, Queue: USER]
+[7] t 7 0 (PC: 3, Accumulator: 0, PSW: 0)
+[7] Process [2] moving from the [EXECUTING] state to the [BLOCKED] state
+[7] Process [1] moving from the [READY] state to the [EXECUTING] state
+[7] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+	SLEEPING Queue: [2, 11, 3]
+	Running Process Information: [PID:1, Priority: 33, WakeUp: 0, Queue: USER]
+[8] j -3 0 (PC: 1, Accumulator: 1, PSW: 0)
+[9] i -1 0 (PC: 2, Accumulator: 0, PSW: 0)
+[9] Clock interrupt number [3] has occurred
+[9] Process [2] moving from the [BLOCKED] state to the [READY] state
+[9] Ready-to-run processes queue:
+	USER: [2, 11]
+	DAEMONS: [0, 100]
+[9] Process [1] is thrown out of the processor by process [2]
+[9] Process [1] moving from the [EXECUTING] state to the [READY] state
+[9] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+[9] Process [2] moving from the [READY] state to the [EXECUTING] state
+[9] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+	SLEEPING Queue: 
+	Running Process Information: [PID:2, Priority: 11, WakeUp: 3, Queue: USER]
+[10] t 3 0 (PC: 4, Accumulator: 0, PSW: 0)
+[10] Process [2] has requested to terminate
+[10] Process [2] moving from the [EXECUTING] state to the [EXIT] state
+[10] Process [1] moving from the [READY] state to the [EXECUTING] state
+[11] t 4 0 (PC: 3, Accumulator: 0, PSW: 0)
+[12] z 2 0 (PC: 5, Accumulator: 0, PSW: 0)
+[12] Clock interrupt number [4] has occurred
+[13] t 3 0 (PC: 6, Accumulator: 0, PSW: 0)
+[13] Process [1] has requested to terminate
+[13] Process [1] moving from the [EXECUTING] state to the [EXIT] state
+[13] Process [0] moving from the [READY] state to the [EXECUTING] state
+[14] h 0 0 (PC: 3, Accumulator: 0, PSW: 129)
+[14] END of the simulation
+
+./Simulator a pppV2/yieldProgramAsc pppV2/yieldProgramDesc
+
+[0] User program list:
+	Program [pppV2/yieldProgramAsc] with arrival time [0]
+	Program [pppV2/yieldProgramDesc] with arrival time [0]
+[0] New process [0] moving to the [NEW] state
+[0] Process [0] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+[0] New process [1] moving to the [NEW] state
+[0] Process [1] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+[0] Process [1] created from program [pppV2/yieldProgramAsc]
+[0] New process [2] moving to the [NEW] state
+[0] Process [2] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [1, 33], [2, 33]
+	DAEMONS: [0, 100]
+[0] Process [2] created from program [pppV2/yieldProgramDesc]
+[0] Process [1] moving from the [READY] state to the [EXECUTING] state
+[1] s 0 2 (PC: 1, Accumulator: -2, PSW: 0)
+[2] i 1 0 (PC: 2, Accumulator: -1, PSW: 0)
+[3] t 4 0 (PC: 3, Accumulator: -1, PSW: 0)
+[3] Process [1] transfers control of the processor to process [2]
+[3] Process [1] moving from the [EXECUTING] state to the [READY] state
+[3] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+[3] Process [2] moving from the [READY] state to the [EXECUTING] state
+[3] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+	SLEEPING Queue: 
+	Running Process Information: [PID:2, Priority: 33, WakeUp: 0, Queue: USER]
+[3] Clock interrupt number [1] has occurred
+[4] a 2 0 (PC: 1, Accumulator: 2, PSW: 0)
+[5] i -1 0 (PC: 2, Accumulator: 1, PSW: 0)
+[6] t 4 0 (PC: 3, Accumulator: 1, PSW: 0)
+[6] Process [2] transfers control of the processor to process [1]
+[6] Process [2] moving from the [EXECUTING] state to the [READY] state
+[6] Ready-to-run processes queue:
+	USER: [2, 33]
+	DAEMONS: [0, 100]
+[6] Process [1] moving from the [READY] state to the [EXECUTING] state
+[6] Ready-to-run processes queue:
+	USER: [2, 33]
+	DAEMONS: [0, 100]
+	SLEEPING Queue: 
+	Running Process Information: [PID:1, Priority: 33, WakeUp: 0, Queue: USER]
+[6] Clock interrupt number [2] has occurred
+[7] z 2 0 (PC: 4, Accumulator: -1, PSW: 0)
+[8] j -3 0 (PC: 1, Accumulator: -1, PSW: 0)
+[9] i 1 0 (PC: 2, Accumulator: 0, PSW: 0)
+[9] Clock interrupt number [3] has occurred
+[10] t 4 0 (PC: 3, Accumulator: 0, PSW: 0)
+[10] Process [1] transfers control of the processor to process [2]
+[10] Process [1] moving from the [EXECUTING] state to the [READY] state
+[10] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+[10] Process [2] moving from the [READY] state to the [EXECUTING] state
+[10] Ready-to-run processes queue:
+	USER: [1, 33]
+	DAEMONS: [0, 100]
+	SLEEPING Queue: 
+	Running Process Information: [PID:2, Priority: 33, WakeUp: 0, Queue: USER]
+[11] z 2 0 (PC: 4, Accumulator: 1, PSW: 0)
+[12] j -3 0 (PC: 1, Accumulator: 1, PSW: 0)
+[12] Clock interrupt number [4] has occurred
+[13] i -1 0 (PC: 2, Accumulator: 0, PSW: 0)
+[14] t 4 0 (PC: 3, Accumulator: 0, PSW: 0)
+[14] Process [2] transfers control of the processor to process [1]
+[14] Process [2] moving from the [EXECUTING] state to the [READY] state
+[14] Ready-to-run processes queue:
+	USER: [2, 33]
+	DAEMONS: [0, 100]
+[14] Process [1] moving from the [READY] state to the [EXECUTING] state
+[14] Ready-to-run processes queue:
+	USER: [2, 33]
+	DAEMONS: [0, 100]
+	SLEEPING Queue: 
+	Running Process Information: [PID:1, Priority: 33, WakeUp: 0, Queue: USER]
+[15] z 2 0 (PC: 5, Accumulator: 0, PSW: 0)
+[15] Clock interrupt number [5] has occurred
+[16] t 3 0 (PC: 6, Accumulator: 0, PSW: 0)
+[16] Process [1] has requested to terminate
+[16] Process [1] moving from the [EXECUTING] state to the [EXIT] state
+[16] Process [2] moving from the [READY] state to the [EXECUTING] state
+[17] z 2 0 (PC: 5, Accumulator: 0, PSW: 0)
+[18] t 3 0 (PC: 6, Accumulator: 0, PSW: 0)
+[18] Process [2] has requested to terminate
+[18] Process [2] moving from the [EXECUTING] state to the [EXIT] state
+[18] Process [0] moving from the [READY] state to the [EXECUTING] state
+[18] Clock interrupt number [6] has occurred
+[19] h 0 0 (PC: 3, Accumulator: 0, PSW: 129)
+[19] END of the simulation
+
+./Simulator a pppV2/programSleepingThrice pppV2/programSleepingTwice
+
+[0] User program list:
+	Program [pppV2/programSleepingThrice] with arrival time [0]
+	Program [pppV2/programSleepingTwice] with arrival time [0]
+[0] New process [0] moving to the [NEW] state
+[0] Process [0] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+[0] New process [1] moving to the [NEW] state
+[0] Process [1] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [1, 11]
+	DAEMONS: [0, 100]
+[0] Process [1] created from program [pppV2/programSleepingThrice]
+[0] New process [2] moving to the [NEW] state
+[0] Process [2] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [1, 11], [2, 25]
+	DAEMONS: [0, 100]
+[0] Process [2] created from program [pppV2/programSleepingTwice]
+[0] Process [1] moving from the [READY] state to the [EXECUTING] state
+[1] t 7 0 (PC: 1, Accumulator: 0, PSW: 0)
+[1] Process [1] moving from the [EXECUTING] state to the [BLOCKED] state
+[1] Process [2] moving from the [READY] state to the [EXECUTING] state
+[1] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+	SLEEPING Queue: [1, 11, 1]
+	Running Process Information: [PID:2, Priority: 25, WakeUp: 0, Queue: USER]
+[2] a 1 0 (PC: 1, Accumulator: 1, PSW: 0)
+[3] t 7 0 (PC: 2, Accumulator: 1, PSW: 0)
+[3] Process [2] moving from the [EXECUTING] state to the [BLOCKED] state
+[3] Process [0] moving from the [READY] state to the [EXECUTING] state
+[3] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: 
+	SLEEPING Queue: [1, 11, 1], [2, 25, 2]
+	Running Process Information: [PID:0, Priority: 100, WakeUp: 0, Queue: DAEMONS]
+[3] Clock interrupt number [1] has occurred
+[3] Process [1] moving from the [BLOCKED] state to the [READY] state
+[3] Ready-to-run processes queue:
+	USER: [1, 11]
+	DAEMONS: 
+[3] Process [0] is thrown out of the processor by process [1]
+[3] Process [0] moving from the [EXECUTING] state to the [READY] state
+[3] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+[3] Process [1] moving from the [READY] state to the [EXECUTING] state
+[3] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+	SLEEPING Queue: [2, 25, 2]
+	Running Process Information: [PID:1, Priority: 11, WakeUp: 1, Queue: USER]
+[4] t 7 0 (PC: 2, Accumulator: 0, PSW: 0)
+[4] Process [1] moving from the [EXECUTING] state to the [BLOCKED] state
+[4] Process [0] moving from the [READY] state to the [EXECUTING] state
+[4] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: 
+	SLEEPING Queue: [2, 25, 2], [1, 11, 2]
+	Running Process Information: [PID:0, Priority: 100, WakeUp: 0, Queue: DAEMONS]
+[5] a 0 0 (PC: 1, Accumulator: 0, PSW: 128)
+[6] n 0 0 (PC: 2, Accumulator: 0, PSW: 128)
+[6] Clock interrupt number [2] has occurred
+[6] Process [2] moving from the [BLOCKED] state to the [READY] state
+[6] Ready-to-run processes queue:
+	USER: [2, 25]
+	DAEMONS: 
+[6] Process [1] moving from the [BLOCKED] state to the [READY] state
+[6] Ready-to-run processes queue:
+	USER: [1, 11], [2, 25]
+	DAEMONS: 
+[6] Process [0] is thrown out of the processor by process [1]
+[6] Process [0] moving from the [EXECUTING] state to the [READY] state
+[6] Ready-to-run processes queue:
+	USER: [2, 25]
+	DAEMONS: [0, 100]
+[6] Process [1] moving from the [READY] state to the [EXECUTING] state
+[6] Ready-to-run processes queue:
+	USER: [2, 25]
+	DAEMONS: [0, 100]
+	SLEEPING Queue: 
+	Running Process Information: [PID:1, Priority: 11, WakeUp: 2, Queue: USER]
+[7] t 7 0 (PC: 3, Accumulator: 0, PSW: 0)
+[7] Process [1] moving from the [EXECUTING] state to the [BLOCKED] state
+[7] Process [2] moving from the [READY] state to the [EXECUTING] state
+[7] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+	SLEEPING Queue: [1, 11, 3]
+	Running Process Information: [PID:2, Priority: 25, WakeUp: 2, Queue: USER]
+[8] a 0 0 (PC: 3, Accumulator: 0, PSW: 0)
+[9] t 7 0 (PC: 4, Accumulator: 0, PSW: 0)
+[9] Process [2] moving from the [EXECUTING] state to the [BLOCKED] state
+[9] Process [0] moving from the [READY] state to the [EXECUTING] state
+[9] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: 
+	SLEEPING Queue: [1, 11, 3], [2, 25, 3]
+	Running Process Information: [PID:0, Priority: 100, WakeUp: 0, Queue: DAEMONS]
+[9] Clock interrupt number [3] has occurred
+[9] Process [1] moving from the [BLOCKED] state to the [READY] state
+[9] Ready-to-run processes queue:
+	USER: [1, 11]
+	DAEMONS: 
+[9] Process [2] moving from the [BLOCKED] state to the [READY] state
+[9] Ready-to-run processes queue:
+	USER: [1, 11], [2, 25]
+	DAEMONS: 
+[9] Process [0] is thrown out of the processor by process [1]
+[9] Process [0] moving from the [EXECUTING] state to the [READY] state
+[9] Ready-to-run processes queue:
+	USER: [2, 25]
+	DAEMONS: [0, 100]
+[9] Process [1] moving from the [READY] state to the [EXECUTING] state
+[9] Ready-to-run processes queue:
+	USER: [2, 25]
+	DAEMONS: [0, 100]
+	SLEEPING Queue: 
+	Running Process Information: [PID:1, Priority: 11, WakeUp: 3, Queue: USER]
+[10] t 3 0 (PC: 4, Accumulator: 0, PSW: 0)
+[10] Process [1] has requested to terminate
+[10] Process [1] moving from the [EXECUTING] state to the [EXIT] state
+[10] Process [2] moving from the [READY] state to the [EXECUTING] state
+[11] t 3 0 (PC: 5, Accumulator: 0, PSW: 0)
+[11] Process [2] has requested to terminate
+[11] Process [2] moving from the [EXECUTING] state to the [EXIT] state
+[11] Process [0] moving from the [READY] state to the [EXECUTING] state
+[12] h 0 0 (PC: 3, Accumulator: 0, PSW: 129)
+[12] Clock interrupt number [4] has occurred
+[12] END of the simulation
+
+./Simulator a pppV2/programWithDivByZero pppV2/programWithHalt
+
+[0] User program list:
+	Program [pppV2/programWithDivByZero] with arrival time [0]
+	Program [pppV2/programWithHalt] with arrival time [0]
+[0] New process [0] moving to the [NEW] state
+[0] Process [0] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+[0] New process [1] moving to the [NEW] state
+[0] Process [1] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [1, 3]
+	DAEMONS: [0, 100]
+[0] Process [1] created from program [pppV2/programWithDivByZero]
+[0] New process [2] moving to the [NEW] state
+[0] Process [2] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: [2, 2], [1, 3]
+	DAEMONS: [0, 100]
+[0] Process [2] created from program [pppV2/programWithHalt]
+[0] Process [2] moving from the [READY] state to the [EXECUTING] state
+[1] h 0 0 (PC: 0, Accumulator: 0, PSW: 0)
+[1] Process [2] has generated an exception and is terminating
+[1] Process [2] moving from the [EXECUTING] state to the [EXIT] state
+[1] Process [1] moving from the [READY] state to the [EXECUTING] state
+[2] d 5 0 (PC: 0, Accumulator: 0, PSW: 0)
+[2] Process [1] has generated an exception and is terminating
+[2] Process [1] moving from the [EXECUTING] state to the [EXIT] state
+[2] Process [0] moving from the [READY] state to the [EXECUTING] state
+[3] h 0 0 (PC: 3, Accumulator: 0, PSW: 129)
+[3] Clock interrupt number [1] has occurred
+[3] END of the simulation
+
+./Simulator a pppV2/noExist
+
+[0] User program list:
+	Program [pppV2/noExist] with arrival time [0]
+[0] New process [0] moving to the [NEW] state
+[0] Process [0] moving from the [NEW] state to the [READY] state
+[0] Ready-to-run processes queue:
+	USER: 
+	DAEMONS: [0, 100]
+[0] ERROR: Program [pppV2/noExist] is not valid (it does not exist)
+[0] Process [0] moving from the [READY] state to the [EXECUTING] state
+[1] h 0 0 (PC: 3, Accumulator: 0, PSW: 129)
+[1] END of the simulation
+

@@ -1,0 +1,5 @@
+5
+90
+inc -1
+trap 7
+halt

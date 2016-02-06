@@ -1,0 +1,17 @@
+// En OperatingSystem.c Ejercicio 5-c de V2
+void OperatingSystem_PrintStatus(){ // Ejercicio 5-c de V2
+  int i;
+  OperatingSystem_PrintReadyToRunQueue();
+  ComputerSystem_DebugMessage(SHORTTERMSCHEDULE,"s","\tSLEEPING Queue: ");
+  for (i=0; i< numberOfSleepingProcesses; i++) {
+	ComputerSystem_DebugMessage(SHORTTERMSCHEDULE,"sGdsdsRds","[",sleepingProcessesQueue[i],", ",processTable[sleepingProcessesQueue[i]].priority,", ",processTable[sleepingProcessesQueue[i]].whenToWakeUp,"]");
+	if (i<numberOfSleepingProcesses-1)
+	  ComputerSystem_DebugMessage(SHORTTERMSCHEDULE,"s",", ");
+  }
+  ComputerSystem_DebugMessage(SHORTTERMSCHEDULE,"s","\n");
+  
+  ComputerSystem_DebugMessage(SHORTTERMSCHEDULE,"sGdsdsRdsss","\tRunning Process Information: [PID:",executingProcessID
+						  ,", Priority: ",processTable[executingProcessID].priority
+						  ,", WakeUp: ",processTable[executingProcessID].whenToWakeUp
+						  ,", Queue: ",processTable[executingProcessID].queueID?"DAEMONS":"USER","]\n");
+}	  

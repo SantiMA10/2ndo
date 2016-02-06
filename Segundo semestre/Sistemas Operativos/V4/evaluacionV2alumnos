@@ -1,0 +1,50 @@
+#! /bin/bash
+
+echo "./Simulator a pppV2/programWithMemadd"
+echo
+
+./Simulator a pppV2/programWithMemadd
+
+echo
+
+echo "./Simulator sp pppV2/notExisting pppV2/programTooBig pppV2/programWithNegativeSize pppV2/programWithOnlySize pppV2/programOnlyTrap3 pppV2/programWithNegativePriority pppV2/programWithTooMuchInstructions pppV2/programOnlyTrap3 pppV2/programOnlyTrap3 pppV2/programOnlyTrap3"
+echo
+
+./Simulator sp pppV2/notExisting pppV2/programTooBig pppV2/programWithNegativeSize pppV2/programWithOnlySize pppV2/programOnlyTrap3 pppV2/programWithNegativePriority pppV2/programWithTooMuchInstructions pppV2/programOnlyTrap3 pppV2/programOnlyTrap3 pppV2/programOnlyTrap3
+
+echo
+
+echo "./Simulator a pppV2/yieldProgramDesc pppV2/programSleepingThrice"
+echo
+
+./Simulator a pppV2/yieldProgramDesc pppV2/programSleepingThrice
+
+echo
+
+echo "./Simulator a pppV2/yieldProgramAsc pppV2/yieldProgramDesc"
+echo
+
+./Simulator a pppV2/yieldProgramAsc pppV2/yieldProgramDesc
+
+echo
+
+echo "./Simulator a pppV2/programSleepingThrice pppV2/programSleepingTwice"
+echo
+
+./Simulator a pppV2/programSleepingThrice pppV2/programSleepingTwice
+
+echo
+
+echo "./Simulator a pppV2/programWithDivByZero pppV2/programWithHalt"
+echo
+
+./Simulator a pppV2/programWithDivByZero pppV2/programWithHalt
+
+echo
+
+echo "./Simulator a pppV2/noExist"
+echo
+
+./Simulator a pppV2/noExist
+
+echo

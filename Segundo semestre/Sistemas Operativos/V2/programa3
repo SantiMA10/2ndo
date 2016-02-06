@@ -1,0 +1,4 @@
+// Proceso Inactivo del Sistema
+// Ejecuta la instrucción NOP indefinidamente
+ADD 0 1
+HALT 
